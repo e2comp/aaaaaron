@@ -145,7 +145,7 @@
         </div>
         <!-- Embedded Media -->
         <h2>Media Section</h2>
-        <img src="your-image-url-here.jpg" alt="Sample Image" style="width: 100%; height: auto; border: 2px solid #00509e; margin-bottom: 10px;">
+        <img src="images (7).jpeg" alt="Sample Image" style="width: 100%; height: auto; border: 2px solid #00509e; margin-bottom: 10px;">
         <iframe width="100%" height="400" src="https://www.youtube.com/embed/ptHIA5bMnio" 
                 title="YouTube video" frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
